@@ -8,4 +8,4 @@ I queried the database perfectly for the requested client id, but my .xlsx outpu
 
 I hope this is enough to show that I am a determined, hardworking individual that is willing to learn new technologies, and step outside of my safe zone.
 
-Thanks again and take care! Hope to hear for you again soon!
+Thanks again and take care! Hope to hear from you again soon!
